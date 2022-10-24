@@ -33,5 +33,5 @@ const getPrices = async (amountInHuman) => {
 }
 
 
-const amount = "1";
+const amount = "2";
 getPrices(amount);
