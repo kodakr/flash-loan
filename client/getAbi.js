@@ -7,3 +7,7 @@ const pairABI = [
     "function token1() external view returns (address)",
     "function getReserves() public view returns (uint112 _reserve0, uint112 _reserve1, uint32 _blockTimestampLast)"
 ];
+const routerABI = [
+    "function getAmountsOut(uint amountIn, address[] calldata path) external view returns (uint[] memory amounts)",
+]
+module.exports = {erc20ABI, factoryAbi, pairABI, routerABI};
