@@ -1,9 +1,9 @@
 # flash-loan
-- 👋 Hi, I’m Henry Obinna, Web3 Developer(Self thought)
+- 👋 Hi, I’m Henry, Web3 Auditor.
 - 👀 I’m interested in ...Blockchain Projects
-- 🌱 I’m currently done researching and learning more of Solidity Programming language
+- 🌱 I’m currently researching and learning more of Smart contracts security
 - 💞️ I’m looking to collaborate on Web3 Projects.
-- 📫 How to reach me ...:
+- 📫 How to reach me ...
 - thecodiingelephant@gmail.com,
 - 
 
